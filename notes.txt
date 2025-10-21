@@ -1,0 +1,6 @@
+1. npm i -D prisma - prisma cli for running prisma commands
+2. npm i @prisma/client - for interacting with DB
+3. Create the model
+4. npx prisma generate
+5. npx prisma migrate
+6. we can't use select and include both together

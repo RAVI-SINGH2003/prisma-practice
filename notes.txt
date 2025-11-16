@@ -1,6 +1,8 @@
-1. npm i -D prisma - prisma cli for running prisma commands
-2. npm i @prisma/client - for interacting with DB
-3. Create the model
-4. npx prisma generate
-5. npx prisma migrate
-6. we can't use select and include both together
+- npm i -D prisma - prisma cli for running prisma commands
+- npm i @prisma/client - for interacting with DB
+- npx prisma init -> for generating the prisma.schema file
+- npx prisma studio 
+- Create the model
+- npx prisma generate
+- npx prisma migrate
+- we can't use select and include both together
